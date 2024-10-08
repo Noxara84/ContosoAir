@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/AppInnovation-44233266/GitHub%20Integration/_apis/build/status%2FNoxara84.ContosoAir?branchName=master)](https://dev.azure.com/AppInnovation-44233266/GitHub%20Integration/_build/latest?definitionId=2&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
